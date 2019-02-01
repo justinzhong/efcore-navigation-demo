@@ -1,0 +1,11 @@
+C:\home\justin\efcoretracking\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.deps.json
+C:\home\justin\efcoretracking\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.runtimeconfig.json
+C:\home\justin\efcoretracking\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.runtimeconfig.dev.json
+C:\home\justin\efcoretracking\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.dll
+C:\home\justin\efcoretracking\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.csprojAssemblyReference.cache
+C:\home\justin\efcoretracking\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\home\justin\efcoretracking\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.AssemblyInfoInputs.cache
+C:\home\justin\efcoretracking\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.AssemblyInfo.cs
+C:\home\justin\efcoretracking\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.pdb
+C:\home\justin\efcoretracking\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.dll
+C:\home\justin\efcoretracking\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.pdb
